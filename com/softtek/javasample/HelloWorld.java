@@ -14,7 +14,7 @@ public class HelloWorld {
 	}
 
 	void Greetings() {
-		System.out.println("Hellow Git!");
+		System.out.println("Hellow GitHub!");
 	}
 	
 }
