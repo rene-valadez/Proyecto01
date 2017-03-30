@@ -14,7 +14,7 @@ public class HelloWorld {
 	}
 
 	void Greetings() {
-		System.out.println("Hellow Git a bug was fixed!!");
+		System.out.println("Hellow Git and GitHub, a bug was fixed!!");
 	}
 	
 }
